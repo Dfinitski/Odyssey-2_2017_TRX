@@ -8,6 +8,6 @@ Legend:
 ---
 
   
-  When Alex board is not enabled, pin 12 DATA works as UO-4, pin 13 works as UO-5, pin 14 EN works as UO-6
+  When Dither option is enabled, pin 12 DATA works as UO-4, pin 13 works as UO-5, pin 14 EN works as UO-6
   
   
